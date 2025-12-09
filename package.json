@@ -8,6 +8,7 @@
     "start": "node serv+er.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "type": "module",
   "author": "Dse Team",
   "license": "MIT",
   "dependencies": {
